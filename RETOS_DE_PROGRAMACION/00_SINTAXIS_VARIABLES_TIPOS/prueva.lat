@@ -1,0 +1,3 @@
+x = 1/2    //Número con decimal
+y = 3        //Número sin decimal
+poner(x)
